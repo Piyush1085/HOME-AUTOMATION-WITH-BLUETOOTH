@@ -44,4 +44,14 @@ Connect each appliance's positive terminal to a relay's NO (Normally Open) termi
 # WORKING:
 Pair the HC-05 module with your smartphone. Use the default PIN (1234 or 0000). Open a Bluetooth terminal app. Send the following commands to control devices: 1: Turn ON Device 1 2: Turn OFF Device 1 3: Turn ON Device 2 4: Turn OFF Device 2 5-8: Control Device 3 and Device 4 similarly
 
+# USE CASES OF THIS PROJECT
+1) Controlling Lights and Appliances
+2) Smartphone as a Remote Controller
+3) Accessibility for Elderly or Disabled Users
+4) Fan Speed or Light Dimming Control
+5) Manual Override and Auto Mode
 
+
+# CIRCUIT DIAGRAM 
+
+![Image](https://github.com/user-attachments/assets/390517c8-bd15-4865-ac23-8eda1436bb9f)
