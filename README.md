@@ -34,3 +34,14 @@ IN3 → Pin 10 (Arduino)
 IN4 → Pin 11 (Arduino) 
 VCC → 5V (Arduino)
 GND → GND (Arduino)
+
+# POWER SUPPLY:
+Ensure the relays can handle the voltage and current of connected devices. For safety, use a separate power supply for high-voltage appliances.
+
+# APPLIANCES:
+Connect each appliance's positive terminal to a relay's NO (Normally Open) terminal. Connect the common (COM) terminal of each relay to the power source.
+
+# WORKING:
+Pair the HC-05 module with your smartphone. Use the default PIN (1234 or 0000). Open a Bluetooth terminal app. Send the following commands to control devices: 1: Turn ON Device 1 2: Turn OFF Device 1 3: Turn ON Device 2 4: Turn OFF Device 2 5-8: Control Device 3 and Device 4 similarly
+
+
